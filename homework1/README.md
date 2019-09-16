@@ -90,6 +90,6 @@
         - Rampup time: 10 (sec)
         - Measure: 1200 (sec)
         ```
-    3. Collect performance information (I/O status and hit ratio) *when running the TPC-C benchmark*
+    3. Collect performance information (I/O status and hit ratio) and capture them *when running the TPC-C benchmark*
     4. Show the result of the TPC-C benchmark
     5. Combine all the results, analyze them, and draw a conclusion
