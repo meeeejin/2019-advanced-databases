@@ -1,7 +1,7 @@
 # Homework #1
 
 - Assigned: Monday, September 16
-- Due: Monday (before the lecture), September 23
+- Due: Monday (**Please print and submit the report before the lecture starts**), September 23
 - If you have any questions, feel free to contact me (Mijin An / meeeeejin@gmail.com)
 
 > NOTE: You should use Linux. (Recommend Ubuntu 16.04)
