@@ -10,6 +10,11 @@ $ cat /proc/meminfo
 ...
 ```
 
+- OS, kernel version
+- CPU information
+- DRAM size
+- Storage devices
+
 ## TPC-C result
 
 ```bash
