@@ -58,25 +58,7 @@
         innodb_buffer_pool_instances=8
         innodb_lru_scan_depth=1024
 
-        # Transaction log settings
-        innodb_log_file_size=500M
-        innodb_log_files_in_group=3
-        innodb_log_buffer_size=32M
-
-        # Log group path (iblog0, iblog1)
-        innodb_log_group_home_dir=/path/to/logdir/
-
-        # Flush settings
-        # 0: every 1 seconds, 1: fsync on commits, 2: writes on commits
-        innodb_flush_log_at_trx_commit=0
-        innodb_flush_neighbors=0
-        innodb_flush_method=O_DIRECT
-
-        # Doublewrite buffer ON
-        innodb_doublewrite=ON
-
-        # Asynchronous I/O control
-        innodb_use_native_aio=true
+        ...
         ```
         - Each configurable arguments of the TPC-C benchmark. For example:
         ```bash
